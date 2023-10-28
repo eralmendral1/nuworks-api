@@ -15,7 +15,7 @@
  - ```git add <file_name>```
  - ```git commit -m <message>```
  - ```git push```
- - pusing will trigger a CI/CD that updates deployed app.
+ - pushing will trigger a CI/CD that updates deployed app.
 
 
 ## Endpoints
