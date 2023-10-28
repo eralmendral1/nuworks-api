@@ -5,17 +5,17 @@
 ### Deployed URL
 <a href="https://nuworks-api.up.railway.app/todos" target="_blank">https://nuworks-api.up.railway.app/todos</a>
 
-## Installation
-```yarn```
-
 ## Running the app
-```yarn start```
-
+1. Install dependencies by running ```yarn``` command.
+2. Create .env file
+3. Add ```MONGO_URL : <Mongodb_URL>``` to .env file
+4. RUN ```yarn start```
 
 ## Git commands
  - ```git add <file_name>```
  - ```git commit -m <message>```
  - ```git push```
+ - pusing will trigger a CI/CD that updates deployed app.
 
 
 ## Endpoints
