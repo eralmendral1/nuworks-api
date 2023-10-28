@@ -18,7 +18,7 @@
  - ```git push```
 
 
-### Endpoints
+## Endpoints
 
 #### Get all todos:
 -  URL ```/todos```
